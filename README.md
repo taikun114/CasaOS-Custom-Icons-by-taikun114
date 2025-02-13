@@ -36,7 +36,7 @@ You can change custom icons for installed apps.
 
 ![app_settings_1](docs/images/app_settings_1.png)
 
-In the upper right corner of the app whose icon you want to change, click `... ` to open the menu and click `Settings`.
+In the upper right corner of the app whose icon you want to change, click `...` to open the menu and click `Settings`.
 
 ![app_settings_2](docs/images/app_settings_2.png)
 
@@ -58,7 +58,7 @@ You can change custom icons for added external links.
 
 ![link_settings_1](docs/images/link_settings_1.png)
 
-In the upper right corner of the external link whose icon you want to change, click `... ` to open the menu and click `Settings`.
+In the upper right corner of the external link whose icon you want to change, click `...` to open the menu and click `Settings`.
 
 ![link_settings_2](docs/images/link_settings_2.png)
 
