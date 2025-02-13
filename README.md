@@ -3,7 +3,7 @@
 
 This is a repository of custom icons for use with [CasaOS](https://casaos.io/).
 
-They are few icons as they are mainly made for my use, but if you want to have an icon added, please open an Issue and I will make it and add it.
+They are few icons as they are mainly made for my use, but if you want to have an icon added, please open an Issue and I will make it and add it (Please open one Issue per icon. If you want multiple icons to be added, you will need to open as many Issues as the number of icons).
 
 ## How to use
 Each icons are contained in [`/icons/`](/icons/). To use an icons, you will need to copy the link first.
